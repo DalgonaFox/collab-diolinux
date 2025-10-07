@@ -1,0 +1,172 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px; 
+    background-color: #f4f4f9; 
+    color: #333;
+}
+
+/* HEADERS */
+h1 {
+    color: #007bff; 
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 10px;
+    margin-top: 40px;
+}
+h2 {
+    color: #28a745; 
+    margin-top: 30px;
+}
+h3, h4, h5, h6 {
+    color: #6c757d; 
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-color: #ccc;
+    margin: 20px 0;
+}
+
+div[style*="blue"] {
+    display: inline-block; 
+    padding: 5px;
+    color: white;
+    margin: 5px 0;
+    border-radius: 3px;
+}
+span[style*="blueviolet"] {
+    padding: 5px;
+    color: white;
+    border-radius: 3px;
+}
+
+strong {
+    color: #dc3545;
+}
+em {
+    color: #ffc107; 
+    font-style: italic; 
+}
+mark {
+    background-color: #ffeb3b; 
+    padding: 2px 4px;
+    border-radius: 2px;
+}
+abbr {
+    border-bottom: 1px dotted #6c757d;
+    cursor: help;
+}
+
+code {
+    background-color: #e9ecef; 
+    padding: 2px 4px;
+    border-radius: 3px;
+    color: #bd4147; 
+    font-family: 'Courier New', monospace;
+}
+kbd {
+    background-color: #343a40; 
+    color: white;
+    padding: 3px 6px;
+    border-radius: 3px;
+    border-bottom: 2px solid #212529;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2);
+    font-family: 'Courier New', monospace;
+    font-size: 0.9em;
+}
+
+input[type="text"], input[type="date"], input[type="time"], input[type="week"], select {
+    padding: 8px;
+    margin: 5px 0 15px 0;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    display: block; 
+}
+
+fieldset {
+    border: 1px solid #ced4da;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+    background-color: #fff;
+}
+legend {
+    font-weight: bold;
+    color: #007bff;
+    padding: 0 10px;
+    margin-left: -10px; 
+}
+
+summary {
+    cursor: pointer;
+    font-weight: bold;
+    color: #dc3545;
+    padding: 5px 0;
+    outline: none;
+}
+details {
+    border: 1px dashed #ced4da;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 4px;
+}
+
+dialog {
+    border: 1px solid #007bff;
+    border-radius: 8px;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+dialog::backdrop {
+    background-color: rgba(0, 0, 0, 0.5); 
+}
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: background-color 0.3s;
+}
+button:hover {
+    background-color: #0056b3;
+}
+
+ruby {
+    font-size: 1.2em;
+    border: 1px solid #ced4da;
+    padding: 5px;
+    border-radius: 4px;
+    display: inline-block;
+}
+rt {
+    color: #dc3545; 
+    font-weight: bold;
+}
+
+figure {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 20px 0;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 5px;
+    display: inline-block; 
+}
+figcaption {
+    font-style: italic;
+    color: #555;
+    margin-top: 5px;
+}
+
+pre {
+    background-color: #e9ecef;
+    padding: 15px;
+    border-left: 5px solid #28a745;
+    overflow-x: auto;
+    border-radius: 4px;
+}
