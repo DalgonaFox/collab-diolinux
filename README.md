@@ -9,11 +9,6 @@ Este não é um projeto de software tradicional, mas sim um exercício prático 
 
 O objetivo foi simular o fluxo de trabalho colaborativo de uma equipe de desenvolvimento.
 
-Durante este exercício, apliquei conceitos fundamentais do Git, incluindo:
-- Criação e transição entre diferentes branches (`feature`, `release`, `main`).
-- Escrita de commits claros e descritivos para rastreabilidade de histórico.
-- Resolução de merges e integração de funcionalidades simuladas (como "soma" e "subtração").
-
 ## Como visualizar
 
 Como não há uma aplicação rodando, a melhor forma de avaliar meu domínio sobre a ferramenta é analisando o histórico do repositório:
