@@ -16,9 +16,3 @@ Como não há uma aplicação rodando, a melhor forma de avaliar meu domínio so
 1. Acesse a aba **[Commits](https://github.com/DalgonaFox/collab-diolinux/commits/main)** do repositório.
 2. Observe a linha do tempo e a estrutura das mensagens.
 3. Repare nos commits de *Merge branch 'release/0.1.0'*, que demonstram a aplicação prática do padrão Git Flow para fechamento de versões.
-
-## Contato
-Caso tenha dúvidas ou sugestões, entre em contato:
-- Email: mila.olisantos@gmail.com
-- GitHub: [DalgonaFox](https://github.com/DalgonaFox)
-- LinkedIn: [Milena Oliveira Santos](https://www.linkedin.com/in/milena-oliveira-santos/).
